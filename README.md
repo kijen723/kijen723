@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kijen723)](https://solved.ac/kijen723)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kij723)](https://solved.ac/kij723)
 
 <!--
-**kijen723/kijen723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kij723/kij723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
